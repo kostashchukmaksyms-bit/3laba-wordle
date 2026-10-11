@@ -1,2 +1,2 @@
-# 2laba-wordle
+# 3laba-wordle
 3 лаба по оіт
